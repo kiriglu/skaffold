@@ -1,6 +1,5 @@
 <!-- github does not support `width` with markdown images-->
 <img src="logo/skaffold.png" width="220">
-test
 ---------------------
 [![Build Status](https://travis-ci.org/GoogleContainerTools/skaffold.svg?branch=master)](https://travis-ci.org/GoogleContainerTools/skaffold)
 [![Code Coverage](https://codecov.io/gh/GoogleContainerTools/skaffold/branch/master/graph/badge.svg)](https://codecov.io/gh/GoogleContainerTools/skaffold)
